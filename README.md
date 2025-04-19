@@ -1,2 +1,9 @@
-# ruby-code
-Learn ruby code Enumerable
+# Ruby code
+
+* Enumerable
+
+* Meta-Programming
+
+* Hash, Nested-Hash
+
+* Sliding-Window
